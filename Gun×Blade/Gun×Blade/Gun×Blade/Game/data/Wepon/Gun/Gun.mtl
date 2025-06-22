@@ -1,0 +1,13 @@
+# Blender 4.1.0 MTL File: 'Gun.blend'
+# www.blender.org
+
+newmtl PM_40_Variant3
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/PM-40_Variant3_AlbedoTransparency.png
+map_Ke textures/PM-40_Variant3_Emission.png
+map_Bump -bm 1.000000 textures/PM-40_Variant3_Normal.png
