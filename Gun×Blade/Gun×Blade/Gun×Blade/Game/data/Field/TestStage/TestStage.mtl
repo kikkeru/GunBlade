@@ -1,0 +1,22 @@
+# Blender 4.1.0 MTL File: 'TestStage.blend'
+# www.blender.org
+
+newmtl Dungeon_Mat_01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Dungeon_01_Diffuse.png
+map_d textures/Dungeon_01_Diffuse.png
+
+newmtl Dungeon_Mat_02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd textures/Dungeon_02_Diffuse.png
+map_Ke textures/Dungeon_02_Emission.png
+map_d textures/Dungeon_02_Diffuse.png
