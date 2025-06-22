@@ -1,0 +1,10 @@
+# Created by Metasequoia
+
+newmtl mat1
+Ka 1.00000 0.00000 1.00000
+Kd 1.00000 0.00000 1.00000
+Ks 0.00000 0.00000 0.00000
+Ke 0.50000 0.50000 0.50000
+Ns 5.00000
+map_Kd CircleW.png
+
